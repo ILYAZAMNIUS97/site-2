@@ -1,0 +1,21 @@
+.topcart {
+  height: 400px;
+  background-image: url(img/headcat.jpg);
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  background-size: cover;
+  padding-left: calc(50% - 600px);
+  padding-right: calc(50% - 600px);
+}
+
+.content__hightbig {
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 70px;
+  margin-top: 64px;
+  margin-bottom: 16px;
+  color: #FFFFFF;
+  margin-top: 63px;
+}/*# sourceMappingURL=_cart.css.map */
